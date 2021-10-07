@@ -1,4 +1,6 @@
+
 # **Hi** There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
+
 
 <p>
 This is an open-source collaborating repository for all the coders who want to contribute in C++ .</p>
@@ -26,3 +28,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
+=======
+# PixDocumentedCodes
+Library for well commented codes
+
